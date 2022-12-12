@@ -13,7 +13,7 @@
     "ascii-table": "^0.0.9",
     "discord.js": "^12.1.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "^0.0.2",
     "quick.db": "^7.0.0-b21",
     "sqlite": "^4.0.7",
